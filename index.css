@@ -1,0 +1,17 @@
+.taro-region-picker {
+    height: 80px;
+    line-height: 80px;
+    text-align: right;
+    font-size: 32px;
+    padding: 0 20px;
+    border-top: 1px solid #999999;
+    border-bottom: 1px solid #999999;
+}
+
+.taro-region-picker-gray {
+    color: #999999;
+}
+
+.taro-region-picker-black {
+    color: #000000;
+}
